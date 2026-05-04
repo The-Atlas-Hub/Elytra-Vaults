@@ -1,1 +1,1 @@
-tellraw @a {"translate":"elytra_vault.load.complete"}
+tellraw @a "Recarga Concluída!"

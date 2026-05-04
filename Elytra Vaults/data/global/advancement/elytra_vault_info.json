@@ -3,8 +3,8 @@
         "icon": {
             "id": "minecraft:elytra"
         },
-        "title": {"translate": "elytra_vault.advancement.title"},
-        "description": {"translate": "elytra_vault.advancement.description"},
+        "title": "Elytra Vaults",
+        "description": "Navios do End agora geram com um Cofre de Élytra em vez de um quadro de item, para que cada jogador possa obter uma.",
         "show_toast": false,
         "announce_to_chat": false
     },

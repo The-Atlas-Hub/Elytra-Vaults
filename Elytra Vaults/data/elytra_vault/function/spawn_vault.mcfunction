@@ -1,4 +1,4 @@
 setblock ^ ^-1 ^ vault{config:{loot_table:"elytra_vault:elytra_vault",key_item:{id:"minecraft:shulker_shell"}},shared_data:{display_item:{id:"minecraft:elytra",count:1},loot_table:"elytra_vault:elytra_vault"}} replace
-summon text_display ^ ^-.25 ^.75 {billboard:"center",line_width:80,text_opacity:255,Tags:["key_text"],text:[{"translate":"elytra_vault.vault.open_with"},{"color":"aqua","translate":"elytra_vault.vault.key_item"}]}
+summon text_display ^ ^-.25 ^.75 {billboard:"center",line_width:80,text_opacity:255,Tags:["key_text"],text:["Abrir com ",{"color":"aqua","text":"[Concha de Shulker]"}]}
 #setblock ^ ^-2 ^2 vault{config:{loot_table:"elytra_vault:elytra_vault",key_item:{id:"minecraft:shulker_shell"}},shared_data:{display_item:{id:"minecraft:elytra",count:1},loot_table:"elytra_vault:elytra_vault"}} replace
 kill @s
