@@ -1,1 +1,1 @@
-tellraw @a "Reload Complete!"
+tellraw @a {"translate":"elytra_vault.load.complete"}

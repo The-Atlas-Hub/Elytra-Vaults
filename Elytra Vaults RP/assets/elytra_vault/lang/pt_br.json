@@ -1,0 +1,9 @@
+{
+  "elytra_vault.load.complete": "Recarga Concluída!",
+
+  "elytra_vault.vault.open_with": "Abrir Com ",
+  "elytra_vault.vault.key_item": "[Concha de Shulker]",
+
+  "elytra_vault.advancement.title": "Elytra Vaults",
+  "elytra_vault.advancement.description": "Navios do End agora geram com um Cofre de Élytra em vez de um quadro de item, para que cada jogador possa obter uma."
+}
