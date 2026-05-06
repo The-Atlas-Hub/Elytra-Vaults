@@ -1,0 +1,9 @@
+{
+  "elytra_vault.load.complete": "Reload Complete!",
+
+  "elytra_vault.vault.open_with": "Open With ",
+  "elytra_vault.vault.key_item": "[Shulker Shell]",
+
+  "elytra_vault.advancement.title": "Elytra Vaults",
+  "elytra_vault.advancement.description": "End Ships now spawn with an Elytra Vault instead of an item frame so each player can get one."
+}

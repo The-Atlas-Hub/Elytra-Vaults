@@ -4,7 +4,7 @@
             "id": "minecraft:elytra"
         },
         "title": "Elytra Vaults",
-        "description": "End Ships now spawn with an Elytra Vault instead of an item frame so each player can get one.",
+        "description": "Navios do End agora geram com um Cofre de Élytra em vez de um quadro de item, para que cada jogador possa obter uma.",
         "show_toast": false,
         "announce_to_chat": false
     },

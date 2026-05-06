@@ -1,1 +1,1 @@
-tellraw @a "Reload Complete!"
+tellraw @a "Recarga Concluída!"
